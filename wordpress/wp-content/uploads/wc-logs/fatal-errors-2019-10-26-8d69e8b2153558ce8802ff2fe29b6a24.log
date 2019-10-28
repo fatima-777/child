@@ -1,0 +1,8 @@
+2019-10-26T12:14:11+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\fatima\wordpress\wp-includes\cache.php on line 536
+
+2019-10-26T12:20:10+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\fatima\wordpress\wp-includes\wp-db.php on line 2007
+
+2019-10-26T12:26:29+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\fatima\wordpress\wp-includes\wp-db.php on line 2007
+
+2019-10-26T16:03:26+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\fatima\wordpress\wp-includes\wp-db.php on line 2007
+

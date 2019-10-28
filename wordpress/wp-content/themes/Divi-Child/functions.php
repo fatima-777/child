@@ -30,7 +30,7 @@ add_action( 'wp_enqueue_scripts', 'my_theme_enqueue_styles' );
             'post_type' => 'look_book',
             'post_per_page' => 6 ,
             'orderby' => 'date' ,
-            'order' => 'DESC' ,
+            'order' => 'ASC' ,
             'post_status' => 'publish'
         );
 

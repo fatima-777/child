@@ -18,4 +18,60 @@ Text Domain : Divi-Child
 #et-top-navigation #et_top_search{width: 160px;margin-top:0;border:1px solid #aaa;padding:5px 10px}
 #et-top-navigation #et_top_search:before {content: "Search";}
 #et-top-navigation #et_top_search #et_search_icon:before{right: 7px;left: auto;top: 8px;font-size: 14px;font-weight: 700;}
-#page-container header.et-fixed-header{background: #FFF;}
+#page-container header.et-fixed-header{background: #FFF}
+
+.et_pb_text_inner .row .inner .image-wraper{
+    display: inline-block;
+}
+.et_pb_text_inner .row .inner .details{
+    float: right ;
+    width:200px ;  
+    text-align: right ;
+    
+}
+.et_pb_text_inner .row .inner .details h3{
+    font-size: 27px;
+    letter-spacing: 2px;
+    line-height: 50px;
+    color: #575153;
+    font-family: "Montserrat";
+    font-weight: 700;
+}
+.et_pb_text_inner .row .inner .details p{
+font-size: 15px;
+line-height: 22px;
+color: #727272;
+font-family: "Roboto";
+font-weight: 400;
+}
+
+.button-more{
+    background-color: rgba(115,115,115,0);
+    border: 2px solid #737373;
+    width: 150px;
+    height: 30px;
+    font-size: 16px;
+    letter-spacing: 3px;
+    color: #454647;
+    font-family: "Montserrat";
+    font-weight: 400;
+    text-align: center;  
+    margin-top: 10px;
+}
+.button-more:hover{
+    background-color: #00c8c8;
+    border: none;
+}
+.inner{
+    display: inline-block;
+    background-color: #f8f8f8;
+    margin-left:20px;
+    padding:30px;
+    width:550px;
+}
+
+#et-secondary-menu ul li {
+float: left;
+padding-right: 30px;
+left: 10%;
+}
